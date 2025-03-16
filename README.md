@@ -1,7 +1,7 @@
 # Enable IPv6 ![IPv6](https://img.shields.io/badge/Protocol-IPv6-blueviolet) ![Bash](https://img.shields.io/badge/Script-Bash-green)
 
 🌍 **Languages**:  
-[![EN](https://img.shields.io/badge/Lang-English-007ACC?logo=flagpack:us&logoWidth=15)](#english) | [![ES](https://img.shields.io/badge/Lang-Español-AA1F2C?logo=flagpack:es)](#español) | [![FR](https://img.shields.io/badge/Lang-Français-0055A4?logo=flagpack:fr)](#francais) | [![IT](https://img.shields.io/badge/Lang-Italiano-009246?logo=flagpack:it)](#italiano) | [![ZH](https://img.shields.io/badge/Lang-中文-DE2910?logo=flagpack:cn)](#chinese)
+[![EN](https://img.shields.io/badge/Lang-English-007ACC?logo=flagpack:us&logoWidth=15)](#english)  [![ES](https://img.shields.io/badge/Lang-Español-AA1F2C?logo=flagpack:es)](#español)  [![FR](https://img.shields.io/badge/Lang-Français-0055A4?logo=flagpack:fr)](#francais)  [![IT](https://img.shields.io/badge/Lang-Italiano-009246?logo=flagpack:it)](#italiano)  [![ZH](https://img.shields.io/badge/Lang-中文-DE2910?logo=flagpack:cn)](#chinese)
 
 ---
 
