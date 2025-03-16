@@ -31,38 +31,46 @@ Enables IPv6 on Linux-based VPS or Dedicated Servers.
 | AlmaLinux       | 8.3             |
 | Rocky Linux     | 8.3             |
 
+<br />
 
 ### Prerequisites  
 • Root access  
 • `wget` installed  
 • `bash` version 4.3 or higher  
 
+<br />
 
 ### Usage  
 ```bash
 wget -qO- https://raw.githubusercontent.com/neoSmartness/enableIPv6/main/enableIPv6.sh | bash -s -- --lang en
 ```
 
+<br />
 
 ### Contributions  
 Found an issue or have a suggestion? Open an [issue](https://github.com/neoSmartness/enableIPv6/issues) or submit a [pull request](https://github.com/neoSmartness/enableIPv6/pulls).
 
+<br />
 
 ### License
 [MIT License](LICENSE). Commercial use allowed. You must include the original copyright.
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+<br />
 
 ---
 
+<br />
 
 <a name="español"></a>
 ## 🇪🇸 Español  
 
+<br />
 
 ### Descripción  
 Habilita IPv6 en VPS o Servidores Dedicados basados en Linux.  
 
+<br />
 
 ### Compatibilidad  
 | Distribución    | Versión Mínima |
@@ -74,38 +82,46 @@ Habilita IPv6 en VPS o Servidores Dedicados basados en Linux.
 | AlmaLinux       | 8.3            |
 | Rocky Linux     | 8.3            |
 
+<br />
 
 ### Prerrequisitos  
 • Usuario root  
 • `wget` instalado  
 • `bash` versión 4.3 o superior  
 
+<br />
 
 ### Uso  
 ```bash
 wget -qO- https://raw.githubusercontent.com/neoSmartness/enableIPv6/main/enableIPv6.sh | bash -s -- --lang es
 ```
 
+<br />
 
 ### Contribuciones  
 ¿Problemas o sugerencias? Abre un [issue](https://github.com/neoSmartness/enableIPv6/issues) o envía un [pull request](https://github.com/neoSmartness/enableIPv6/pulls).  
 
+<br />
 
 ### Licencia
 [Licencia MIT](LICENSE). Uso comercial permitido. Debes incluir el copyright original.  
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+<br />
 
 ---
 
+<br />
 
 <a name="francais"></a>
 ## 🇫🇷 Français  
 
+<br />
 
 ### Description  
 Active IPv6 sur les VPS ou serveurs dédiés sous Linux.  
 
+<br />
 
 ### Compatibilité  
 | Distribution    | Version Minimale |
@@ -117,38 +133,46 @@ Active IPv6 sur les VPS ou serveurs dédiés sous Linux.
 | AlmaLinux       | 8.3              |
 | Rocky Linux     | 8.3              |
 
+<br />
 
 ### Prérequis  
 • Accès root  
 • `wget` installé  
 • `bash` version 4.3 ou supérieure  
 
+<br />
 
 ### Utilisation  
 ```bash
 wget -qO- https://raw.githubusercontent.com/neoSmartness/enableIPv6/main/enableIPv6.sh | bash -s -- --lang fr
 ```
 
+<br />
 
 ### Contributions  
 Un problème ou une suggestion ? Ouvrez un [issue](https://github.com/neoSmartness/enableIPv6/issues) ou envoyez une [pull request](https://github.com/neoSmartness/enableIPv6/pulls).
 
+<br />
 
 ### Licence  
 [Licence MIT](LICENSE). Usage commercial autorisé. Vous devez inclure le copyright original.  
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+<br />
 
 ---
 
+<br />
 
 <a name="italiano"></a>
 ## 🇮🇹 Italiano  
 
+<br />
 
 ### Descrizione  
 Abilita IPv6 su VPS o server dedicati basati su Linux.  
 
+<br />
 
 ### Compatibilità  
 | Distribuzione    | Versione Minima |
@@ -160,38 +184,46 @@ Abilita IPv6 su VPS o server dedicati basati su Linux.
 | AlmaLinux        | 8.3             |
 | Rocky Linux      | 8.3             |
 
+<br />
 
 ### Prerequisiti  
 • Accesso root  
 • `wget` installato  
 • `bash` versione 4.3 o superiore  
 
+<br />
 
 ### Utilizzo  
 ```bash
 wget -qO- https://raw.githubusercontent.com/neoSmartness/enableIPv6/main/enableIPv6.sh | bash -s -- --lang it
 ```
 
+<br />
 
 ### Contributi  
 Hai trovato un problema o hai un suggerimento? Apri un [issue](https://github.com/neoSmartness/enableIPv6/issues) o invia una [pull request](https://github.com/neoSmartness/enableIPv6/pulls).
 
+<br />
 
 ### Licenza  
 [Licenza MIT](LICENSE). Uso commerciale consentito. È necessario includere il copyright originale.  
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+<br />
 
 ---
 
+<br />
 
 <a name="chinese"></a>
 ## 🇨🇳 简体中文  
 
+<br />
 
 ### 描述  
 在基于 Linux 的 VPS 或独立服务器上启用 IPv6。
 
+<br />
 
 ### 兼容性  
 | 发行版        | 最低版本要求 |
@@ -203,22 +235,26 @@ Hai trovato un problema o hai un suggerimento? Apri un [issue](https://github.co
 | AlmaLinux     | 8.3          |
 | Rocky Linux   | 8.3          |
 
+<br />
 
 ### 前提条件  
 • Root 权限  
 • 已安装 `wget`  
 • `bash` 4.3 或更高版本  
 
+<br />
 
 ### 使用方法  
 ```bash
 wget -qO- https://raw.githubusercontent.com/neoSmartness/enableIPv6/main/enableIPv6.sh | bash -s -- --lang zh
 ```
 
+<br />
 
 ### 贡献  
 发现问题或有建议？请提交 [issue](https://github.com/neoSmartness/enableIPv6/issues) 或 [pull request](https://github.com/neoSmartness/enableIPv6/pulls)。
 
+<br />
 
 ### 许可证  
 [MIT 许可证](LICENSE)。允许商业用途，必须保留原始版权声明。  
