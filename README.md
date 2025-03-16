@@ -1,7 +1,7 @@
 # Enable IPv6 ![IPv6](https://img.shields.io/badge/Protocol-IPv6-blueviolet) ![Bash](https://img.shields.io/badge/Script-Bash-green)
 
 🌍 **Languages / Idiomas**:  
-[🇺🇸 English](#english) | [🇪🇸 Español](#español) | [🇫🇷 Français](#francais) | [🇮🇹 Italiano](#italiano) | [🇨🇳 简体中文](#chinese)
+[🇺🇸 English (EN)](#english) | [🇪🇸 Español (ES)](#español) | [🇫🇷 Français (FR)](#francais) | [🇮🇹 Italiano (IT)](#italiano) | [🇨🇳 中文 (ZH)](#chinese)
 
 ---
 
